@@ -1,0 +1,2 @@
+# premium-mission-furn-001-mission-style-mortise-layout-g
+Are your mortise layouts eating up more time than the actual joinery? Stop second-guessing your measurements and start every mission piece with a perfectly planned mortise layout.  This Notion template transforms your project specs into a repeatable, error-proof mortise layout system. It automates spacing calculations and provides a visual grid, so
